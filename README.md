@@ -1,6 +1,6 @@
 # social-media-website
 
-Using PHP, Html, CSS and MySQL I created a website with sign-up and login functionality for users. When a user signsup they are put into a database that will save 
+Using PHP, Html, CSS and MySQL I created a website with sign-up and login functionality for users. When a user signs up they are put into a database that will save 
 their login information.
 
 Once logged in, users have access to pages that were not visibile before logging in, using the SESSION method that comes with PHP.
